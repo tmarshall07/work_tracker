@@ -1,0 +1,21 @@
+/**
+*
+* Footer
+*
+**/
+
+footer{
+
+	width:100%;
+	height:200px;
+	background:$colorBlue;
+	text-align: center;
+	color:white;
+
+	a{
+		color:white;
+		&:visited{
+			color:white;
+		}
+	}
+}

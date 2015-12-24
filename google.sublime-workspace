@@ -1,0 +1,1380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"task",
+				"taskHTML"
+			],
+			[
+				"month",
+				"month-submit"
+			],
+			[
+				"projec",
+				"project-row"
+			],
+			[
+				"get",
+				"getTaskArray"
+			],
+			[
+				"project",
+				"projectCol"
+			],
+			[
+				"tims",
+				"timesheets"
+			],
+			[
+				"proej",
+				"projectCol"
+			],
+			[
+				"proje",
+				"projectArr"
+			],
+			[
+				"creat",
+				"createObjectArray"
+			],
+			[
+				"table",
+				"tableHTML"
+			],
+			[
+				"estim",
+				"estimated-income"
+			],
+			[
+				"estimated",
+				"estimatedIncome"
+			],
+			[
+				"proj",
+				"project-table"
+			],
+			[
+				"pro",
+				"projectCol"
+			],
+			[
+				"col",
+				"colorGrayBackground"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"co",
+				"colorGrayBackground"
+			],
+			[
+				"proejc",
+				"projectArr"
+			],
+			[
+				"ho",
+				"hours"
+			],
+			[
+				"time",
+				"timesheet"
+			],
+			[
+				"hours",
+				"hoursCol"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"concat",
+				"concatScripts"
+			],
+			[
+				"sign-up",
+				"sign-up-submit"
+			],
+			[
+				"login",
+				"login-banner"
+			],
+			[
+				"sign",
+				"sign-in-button"
+			],
+			[
+				"sing-in",
+				"sign-in-container"
+			],
+			[
+				"setne",
+				"sentence-entry"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"current_",
+				"current_userID"
+			],
+			[
+				"check",
+				"check_login"
+			],
+			[
+				"en",
+				"entered_password"
+			],
+			[
+				"entere",
+				"entered_username"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ent",
+				"entered_sentence"
+			],
+			[
+				"genearte",
+				"generateMastermind"
+			],
+			[
+				"mast",
+				"masterminds"
+			],
+			[
+				"mastermind",
+				"mastermindArray"
+			],
+			[
+				"players",
+				"players-submit"
+			],
+			[
+				"add",
+				"addSentence"
+			],
+			[
+				"inlie",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 6084,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/components/_modules/_footer.scss",
+			"settings":
+			{
+				"buffer_size": 175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/components/_pages/_table-page.scss",
+			"settings":
+			{
+				"buffer_size": 456,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/components/_components/_table.scss",
+			"settings":
+			{
+				"buffer_size": 2762,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 4221,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/components/_components/_selector.scss",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/components/components.scss",
+			"settings":
+			{
+				"buffer_size": 1459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "package control:ins",
+		"selected_items":
+		[
+			[
+				"package control:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Add Channel"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"node -v",
+			"node v",
+			"noe v",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"'node-v'",
+			"node-v",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tannermarshall/web/google_starter/app",
+		"/Users/tannermarshall/web/google_starter/app/styles",
+		"/Users/tannermarshall/web/google_starter/app/styles/components",
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_components",
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_modules",
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_pages"
+	],
+	"file_history":
+	[
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_components/_table.scss",
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_modules/_footer.scss",
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_modules/footer",
+		"/Users/tannermarshall/web/google_starter/app/styles/components/_utils.scss",
+		"/Users/tannermarshall/web/google_starter/app/styles/main.scss",
+		"/Users/tannermarshall/web/google_starter/app/styles/main.css",
+		"/Users/tannermarshall/Documents/Sites/scratch/google_starter/app/scripts/main.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/google_starter/app/styles/components/_components/_table.scss",
+		"/Users/tannermarshall/Documents/Sites/scratch/google_starter/app/styleguide.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/google_starter/gulpfile.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/google_starter/app/timesheets/timesheet_2015-12-09 03-36-40.csv",
+		"/Users/tannermarshall/Documents/Sites/scratch/google_starter/app/scripts/app.js",
+		"/Users/tannermarshall/Downloads/timesheet_2015-12-09 03-01-25.csv",
+		"/Users/tannermarshall/Downloads/export.csv",
+		"/Users/tannermarshall/Downloads/timesheet_2015-12-04 22-01-20.csv",
+		"/Users/tannermarshall/Downloads/timesheet_2015-12-06 00-45-18.csv",
+		"/Users/tannermarshall/Documents/Sites/scratch/googleStarter/package.json",
+		"/Users/tannermarshall/Documents/Sites/scratch/googleStarter/app/index.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/googleStarter/README.md",
+		"/Users/tannermarshall/Downloads/timesheet_2015-12-02 02-49-35.csv",
+		"/Users/tannermarshall/Documents/Sites/scratch/gulp_testdrive/scss/base/_variables.scss",
+		"/Users/tannermarshall/Documents/Sites/scratch/gulp_testdrive/package.json",
+		"/Users/tannermarshall/Documents/Sites/scratch/express_basics/express-basics/src/templates/post.jade",
+		"/Users/tannermarshall/Documents/Sites/scratch/express_basics/express-basics/src/templates/index.jade",
+		"/Users/tannermarshall/Documents/Sites/scratch/express_basics/express-basics/src/templates/layout.jade",
+		"/Users/tannermarshall/Documents/Sites/scratch/express_basics/express-basics/package.json",
+		"/Users/tannermarshall/Documents/Sites/scratch/express_basics/express-basics/src/app.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/bcrypt_test/.gitignore",
+		"/Users/tannermarshall/Documents/Sites/scratch/bcrypt_test/app.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence_php/js/app.js",
+		"/Users/tannermarshall/Downloads/CVTanner.html",
+		"/Users/tannermarshall/Desktop/test.css",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence_php/add_entry.php",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence/index.php",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence/index.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/index_backup.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/legendary.sublime-workspace",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/legendary.sublime-project",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/composer.lock",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/composer.phar",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/composer.json",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/js/scripts_backup.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/js/inventory.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/index.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/css/style.css",
+		"/Users/tannermarshall/Documents/Sites/scratch/legendary_randomizer/js/scripts.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence/js/app.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence/css/style.css",
+		"/Users/tannermarshall/Documents/Sites/scratch/sentence/archives.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/netzro/about.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/netzro/index.html",
+		"/Users/tannermarshall/Documents/Sites/scratch/netzro/js/scripts.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/netzro/scripts.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/netzro/css/style.css",
+		"/Users/tannermarshall/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/tannermarshall/Documents/Sites/scratch/Site_1/css/main.css",
+		"/Users/tannermarshall/Documents/Sites/scratch/Site_1/myscripts.js",
+		"/Users/tannermarshall/Documents/Sites/scratch/Site_1/index.html",
+		"/Users/tannermarshall/Documents/Sites/wordpress/TMIscience/wp-content/themes/simply-read_edit/index.php",
+		"/Users/tannermarshall/Documents/Sites/wordpress/TMIscience/wp-content/themes/simply-read_edit/library/js/scripts-home.js",
+		"/Users/tannermarshall/Documents/Sites/wordpress/TMIscience/wp-content/themes/simply-read_edit/header.php",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-content/themes/twentyfifteen_edit/js/functions.js",
+		"/Users/tannermarshall/Documents/Sites/wordpress/TMIscience/wp-content/themes/simply-read_edit/library/css/style.css",
+		"/Users/tannermarshall/Documents/Sites/wordpress/TMIscience/wp-content/themes/simply-read_edit/style.css",
+		"/Users/tannermarshall/Downloads/functions.js",
+		"/Users/tannermarshall/Documents/Sites/wordpress/TMIscience/wp-content/themes/simply-read_edit/index_backup.php",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-config.php",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-content/themes/twentyfifteen_edit/functions.php",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-content/themes/twentyfifteen_edit/js/functions_edited.js",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-content/themes/twentyfifteen_edit/js/functions_backup.js",
+		"/Users/tannermarshall/Google Drive/Projects/Coding/test.css",
+		"/Users/tannermarshall/Library/Application Support/Sublime Text 3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/Users/tannermarshall/Library/Application Support/Sublime Text 3/Packages/User/Autoprefixer.sublime-settings",
+		"/Users/tannermarshall/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/tannermarshall/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-content/themes/twentyfifteen/js/functions_backup.js",
+		"/Users/tannermarshall/Documents/Sites/wordpress/bioislife/wp-content/themes/twentyfifteen/js/functions.js",
+		"/Users/tannermarshall/Google Drive/Projects/TMIscience/Index_edited.php",
+		"/Users/tannermarshall/Downloads/scripts-home.js",
+		"/Users/tannermarshall/Downloads/jquery.cycle2.js",
+		"/Users/tannermarshall/Downloads/scripts.js",
+		"/Users/tannermarshall/Google Drive/Projects/TMIscience/Index_main_backup.php",
+		"/Users/tannermarshall/Downloads/animate.css",
+		"/Users/tannermarshall/Google Drive/Projects/BIL/Backup custom CSS.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"unde",
+			".hours",
+			"border",
+			"gray",
+			"container",
+			"thead",
+			"container",
+			"padding",
+			"findobjectbyp",
+			"totalh",
+			"hoursarr",
+			"title",
+			"projectar",
+			"tr",
+			"font",
+			"HighLig",
+			"import",
+			"sass",
+			"font-size",
+			"timesheets",
+			"parseFi",
+			"parseF",
+			"parse",
+			"parseFil",
+			"parseFile",
+			"handsome",
+			"load-plugin",
+			"scripts",
+			"p.po",
+			"entry-c",
+			"disabled",
+			"display-sentence",
+			"sign-up-bu",
+			"sign-up-cont",
+			"sign-up",
+			"block",
+			"display-sent",
+			"display:non",
+			"display",
+			"hidden",
+			"user",
+			"sign-up",
+			"entered",
+			"I",
+			".get",
+			"fadein",
+			"deadpool",
+			"display:none;",
+			"iron ma",
+			"gambit",
+			"beast",
+			"Cyclops",
+			"thing",
+			"group",
+			"Marvel Knights",
+			"teamst",
+			"Teamto",
+			"teamToUse",
+			"league",
+			"group",
+			"display:non",
+			"x-force",
+			"numtouse",
+			"num-players",
+			"avengers?",
+			".each",
+			"black ca",
+			"wolver",
+			"thor",
+			"storm",
+			"spider",
+			"rogue",
+			"punish",
+			"profess",
+			"night",
+			"jean",
+			"iron ",
+			"iceman",
+			"hawkey",
+			"gambit",
+			"forge",
+			"randomsub",
+			"remove",
+			"endif",
+			"slideDown",
+			"general styles",
+			"body {",
+			"general styles",
+			".entry-cont",
+			"color",
+			"media =",
+			"a:visited",
+			"body {",
+			"media=\"",
+			"a {",
+			"tmi",
+			"nav[role=\"nav",
+			"float: left",
+			".nav",
+			"nav-",
+			"welcome",
+			"2014",
+			"version",
+			"$fposts",
+			"$image_full",
+			"$slider_timeout",
+			"bounce"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"team",
+			"Team",
+			"team",
+			"Teams",
+			"team",
+			"Teams",
+			"team",
+			"Team",
+			"team",
+			"Team",
+			"team"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2426.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2881,
+								2881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/components/_modules/_footer.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+							"gutter_color_103":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										105,
+										117
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_104":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										104,
+										117
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_105":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										105,
+										117
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_120":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										104,
+										117
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_121":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										104,
+										117
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_122":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										104,
+										117
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_123":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_124":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_125":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										173,
+										173
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_141":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_144":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_148":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_151":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_160":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_162":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_169":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_172":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_184":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										123,
+										137
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_190":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_191":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_197":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_212":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										151,
+										166
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_56":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										173,
+										173
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/styles/components/_pages/_table-page.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+							"gutter_color_324":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/white.png",
+								"regions":
+								[
+									[
+										324,
+										337
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/styles/components/_components/_table.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2762,
+						"regions":
+						{
+							"gutter_color_1014":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										1014,
+										1052
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_110":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										110,
+										129
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_1809":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										1809,
+										1831
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2127":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										2127,
+										2167
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2363":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										2363,
+										2402
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2403":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										2403,
+										2443
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2661":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										2661,
+										2700
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_2701":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										2701,
+										2741
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_279":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										279,
+										318
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_962":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#ffffff.png",
+								"regions":
+								[
+									[
+										962,
+										983
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								568,
+								568
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 59.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/scripts/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								958,
+								958
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/styles/components/_components/_selector.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/styles/components/components.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1459,
+						"regions":
+						{
+							"gutter_color_537":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/red.png",
+								"regions":
+								[
+									[
+										537,
+										574
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_575":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/red.png",
+								"regions":
+								[
+									[
+										575,
+										614
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								1383,
+								1383
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 314.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "google.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"~/Documents/Sites/scratch/Site_1/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"console"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

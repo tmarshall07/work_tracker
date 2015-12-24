@@ -1,0 +1,36 @@
+/**
+*
+* Table-display page
+*
+**/
+
+.empty-table{
+	display:block;
+	height:400px;
+	text-align:center;
+	color:darken($colorGrayBackground,20%);
+
+	background:$colorGrayBackground;
+	border: 5px dashed darken($colorGrayBackground,20%);
+
+	h2{
+		padding-top:20%;
+	}
+}
+
+#estimated-income{
+	background:$colorGreen;
+	text-align:center;
+	color:white;
+	p{
+		padding:15px 0 15px 0;
+	}
+}
+
+.task-row{
+	background-color:darken($colorGrayBackground, 10%);
+}
+
+.task-container{
+	display:none;
+}
