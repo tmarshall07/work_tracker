@@ -1,8 +1,12 @@
 var timesheet;
 
+//Load most recent timesheet
+
+loadCurrentSheet();
+
 $('#month-submit').on('click', function(){
 
-	$('.empty-table').slideUp();
+	// $('.empty-table').slideUp();
 
 	$('#project-table tr, #project-table th, #estimated-income p').remove();
 
@@ -32,38 +36,37 @@ $( "tbody" ).on( "click", "tr.project-row", function() {
 
 	  var project = $( this ).attr('value');
 	  var taskArray = getTaskArray(project);
-	  var taskHTML = "<ul class='task-container'>";
 	  var pieData = [];
 
 	  for(i = 0; i < taskArray.length; i++){
-	  	var taskRow = "<tr class = 'task-row'>" +
-	  						"<td>" + taskArray[i].name + "</td>" +
-	  						"<td class='hours'>" + Math.round(taskArray[i].hours*100)/100 + "</td>" +
-						 "</tr>";
-		var taskList = "<li>" + taskArray[i].name + ": " + Math.round(taskArray[i].hours*100)/100 + " hours</li>";
 
+	  	var color = Math.floor(Math.random() * 255) + "," + Math.floor(Math.random() * 255) + "," + Math.floor(Math.random() * 255);
+	 
 		pieData[i] = {
 			value: Math.round(taskArray[i].hours*100)/100,
-	        color: "#F7464A",
-	        highlight: "#FF5A5E",
+	        color: "rgb(" + color + ")",
+	        highlight: "rgba(" + color + ", .75)",
 	        label: taskArray[i].name
 		}
 
-		taskHTML += taskList;	 
 	  }
 
-	  var pieHTML = '<div class="task-container" id="canvas-holder">' +
-	        			'<canvas id="chart-area1" width="150" height="150" />' +
-	     			  '</div>';
-					  // '<div id="chartjs-tooltip"></div>';
+	  var pieHTML = '<tr class="task-container"><td colspan="2">' +
+	  					'<div class="task-container" id="canvas-holder">' +
+	        			'<canvas id="chart-area1" width="200" height="200" />' +
+	     			  '</div>' +
+					  '<div class="task-container" id="chartjs-tooltip"></div>' +
+					  '<div id="js-legend" class="chart-legend task-container"></div>' + 
+					'</td></tr>';
 
-	  taskHTML += "</ul>"
-
-	  $( this ).addClass('selected-row').after(taskHTML + pieHTML);
+	  $( this ).addClass('selected-row').after(pieHTML);
 
 	  $('.task-container').slideDown('fast', function(){
+
 	  	var ctx1 = document.getElementById("chart-area1").getContext("2d");
 	    window.myPie = new Chart(ctx1).Pie(pieData);
+	    // document.getElementById('js-legend').innerHTML = myPie.generateLegend();
+	  	
 	  });
 	}
 
@@ -79,6 +82,33 @@ function findObjectByName(arr, name, exists){
 			return (exists === true) ? true : arr[i];
 		}
 	}
+}
+
+// Function that loads up the current month's timesheet on initial page load
+
+function loadCurrentSheet(){
+	var months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
+	var options = [];
+	var currentMonth;
+	var d = new Date();
+
+	for(i = 1; i < $(".month-selector option").length + 1; i++){
+		if(months[d.getMonth()] == $(".month-selector option:nth-child(" + i.toString() + ")").val()){
+			currentMonth = months[d.getMonth()];
+		}
+	}
+
+	if(currentMonth != undefined){
+		Papa.parse("timesheets/" + currentMonth + ".csv", {
+							download: true,
+							complete: function(results, file) {
+									  console.log("Parsing complete:", results.data);
+									  timesheet = results.data;
+									  loadTimesheet(results.data);
+									}
+		});
+	}
+
 }
 
 function getHeaderLocations(){
@@ -197,8 +227,6 @@ function loadTimesheet(timesheet){
 	$('#estimated-income').append('<p>Income: <strong>$' + estimatedIncome + '</strong></p>');
 
 }
-
-
 
 
 

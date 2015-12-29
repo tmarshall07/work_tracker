@@ -59,23 +59,9 @@
 
     <main>
 
-    <div class="month-selector">
-
-      <label>Month: </label>
-
-      <select>
-        <option value="october">October</option>
-        <option value="november">November</option>
-        <option value="december">December</option>
-        <option value="january">January</option>
-      </select>
-      <button id="month-submit">Submit</button>
-
-    </div>
-
-    <div class="empty-table" style="width:100%">
+  <!--   <div class="empty-table" style="width:100%">
       <h2><strong>Nothing here yet!</strong></h2>
-    </div>
+    </div> -->
 
     <table id="project-table" style="width:100%">
       <thead>
@@ -88,6 +74,20 @@
 
     </div>
 
+    <div class="month-selector">
+
+      <label>Change month: </label>
+
+      <select>
+        <option value="january">January</option>
+        <option value="december">December</option>
+        <option value="november">November</option>
+        <option value="october">October</option>
+      </select>
+      <button id="month-submit">Submit</button>
+
+    </div>
+
     </main>
 
     <!-- build:js scripts/main.min.js -->
@@ -96,6 +96,7 @@
     <script type="text/javascript" src="scripts/papaparse.min.js"></script>
     <script type="text/javascript" src="scripts/jquery-2.1.4.min.js"></script>
     <script type="text/javascript" src="scripts/Chart.min.js"></script>
+    <script type="text/javascript" src="scripts/chartConfig.js"></script>
 
     <!-- custom scripts -->
     <script type="text/javascript" src="scripts/app.js"></script>
