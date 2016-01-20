@@ -1,0 +1,497 @@
+Service,Client,Project,User,Task,Due Date,Estimated time,Billable,Hourly Rate,Archived,Task worked hours,Date,From,To,Duration,Hours
+,Osmosis,Free Radicals,Tanner Marshall,Script,,0:00,FALSE,,TRUE,3:30,10/26/2015,7:17:02,8:40:08,1:23:06,1.38
+,Osmosis,Free Radicals,Tanner Marshall,Script,,0:00,FALSE,,TRUE,3:30,10/26/2015,8:40:52,9:01:44,0:20:52,0.35
+,Osmosis,Free Radicals,Tanner Marshall,Script,,0:00,FALSE,,TRUE,3:30,10/26/2015,9:06:15,9:50:35,0:44:20,0.74
+,Osmosis,Free Radicals,Tanner Marshall,Script,,0:00,FALSE,,TRUE,3:30,10/26/2015,9:53:23,10:55:07,1:01:44,1.03
+,Osmosis,Free Radicals,Tanner Marshall,Visuals,,,FALSE,,TRUE,3:24,10/26/2015,11:11:22,12:43:39,1:32:17,1.54
+,Osmosis,Free Radicals,Tanner Marshall,Visuals,,,FALSE,,TRUE,3:24,10/26/2015,2:10:23,2:35:50,0:25:27,0.42
+,Osmosis,Free Radicals,Tanner Marshall,Visuals,,,FALSE,,TRUE,3:24,10/26/2015,2:56:31,4:23:12,1:26:41,1.44
+,Osmosis,Free Radicals,Tanner Marshall,Visuals,,,FALSE,,TRUE,2:31,10/27/2015,6:58:15,9:30:11,2:31:56,2.53
+,Osmosis,Acute Leukemia,Tanner Marshall,Script,10/29/2015,0:00,FALSE,,TRUE,3:07,10/28/2015,7:38:26,9:42:08,2:03:42,2.06
+,Osmosis,Acute Leukemia,Tanner Marshall,Script,10/29/2015,0:00,FALSE,,TRUE,3:07,10/28/2015,9:50:40,10:28:40,0:38:00,0.63
+,Osmosis,Acute Leukemia,Tanner Marshall,Script,10/29/2015,0:00,FALSE,,TRUE,3:07,10/28/2015,10:29:54,10:56:11,0:26:17,0.44
+,Osmosis,Acute Leukemia,Tanner Marshall,Script,,,FALSE,,TRUE,3:27,10/28/2015,10:57:44,12:19:51,1:22:07,1.37
+,Osmosis,Acute Leukemia,Tanner Marshall,Script,,,FALSE,,TRUE,3:27,10/28/2015,12:42:29,1:02:02,0:19:33,0.33
+,Osmosis,Acute Leukemia,Tanner Marshall,Script,,,FALSE,,TRUE,3:27,10/28/2015,1:24:11,3:09:51,1:45:40,1.76
+,Osmosis,Acute Leukemia,Tanner Marshall,Visuals,,,FALSE,,TRUE,1:19,10/28/2015,3:30:05,4:49:51,1:19:46,1.33
+,Osmosis,Acute Leukemia,Tanner Marshall,Visuals,,,FALSE,,TRUE,2:23,10/29/2015,7:22:53,8:03:34,0:40:41,0.68
+,Osmosis,Acute Leukemia,Tanner Marshall,Visuals,,,FALSE,,TRUE,2:23,10/29/2015,8:12:40,8:12:40,0:00:01,0
+,Osmosis,Acute Leukemia,Tanner Marshall,Visuals,,,FALSE,,TRUE,2:23,10/29/2015,8:12:40,9:26:38,1:13:58,1.23
+,Osmosis,Acute Leukemia,Tanner Marshall,Visuals,,,FALSE,,TRUE,2:23,10/29/2015,9:28:40,9:57:55,0:29:15,0.49
+,Osmosis,SIADH,Tanner Marshall,Script,,,TRUE,,TRUE,7:44,11/16/2015,7:27:09,7:42:18,0:15:09,0.25
+,Osmosis,SIADH,Tanner Marshall,Script,,,TRUE,,TRUE,7:44,11/16/2015,7:42:19,7:43:00,0:00:41,0.01
+,Osmosis,SIADH,Tanner Marshall,Script,,,TRUE,,TRUE,7:44,11/16/2015,8:01:35,8:25:02,0:23:27,0.39
+,Osmosis,SIADH,Tanner Marshall,Script,,,TRUE,,TRUE,7:44,11/16/2015,8:28:33,8:44:42,0:16:09,0.27
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,8:45:22,10:57:28,2:12:06,2.2
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,10:57:56,11:13:55,0:15:59,0.27
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,11:39:02,1:01:12,1:22:10,1.37
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,1:36:59,1:38:06,0:01:07,0.02
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,1:40:00,3:30:20,1:50:20,1.84
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,3:46:36,4:41:04,0:54:28,0.91
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:44,11/16/2015,4:57:09,5:09:34,0:12:25,0.21
+,Osmosis,SIADH,Tanner Marshall,Visuals,,,TRUE,,TRUE,0:51,11/17/2015,7:13:34,8:05:15,0:51:41,0.86
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,7:30:00,8:03:00,0:33:00,0.55
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,8:04:02,8:44:17,0:40:15,0.67
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,9:34:51,9:56:49,0:21:58,0.37
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,10:05:47,10:06:15,0:00:28,0.01
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,10:27:09,11:17:48,0:50:39,0.84
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,11:17:50,12:29:08,1:11:18,1.19
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,12:31:10,1:08:12,0:37:02,0.62
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,4:47,11/20/2015,2:05:00,2:37:40,0:32:40,0.54
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,1:02,11/20/2015,2:59:07,3:10:33,0:11:26,0.19
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,1:02,11/20/2015,3:10:38,3:11:19,0:00:41,0.01
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,1:02,11/20/2015,3:21:55,4:12:28,0:50:33,0.84
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,0:47,11/20/2015,4:26:32,5:14:26,0:47:54,0.8
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,1:31,11/22/2015,11:28:19,1:00:07,1:31:48,1.53
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,2:25,11/23/2015,7:05:56,7:08:08,0:02:12,0.04
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,2:25,11/23/2015,7:08:51,7:09:00,0:00:09,0
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,2:25,11/23/2015,7:19:00,7:20:00,0:01:00,0.02
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,2:25,11/23/2015,7:21:22,7:48:34,0:27:12,0.45
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,2:25,11/23/2015,10:13:34,10:13:58,0:00:24,0.01
+,Osmosis,Viral hepatitis,Tanner Marshall,Script,,,TRUE,,TRUE,2:25,11/23/2015,10:15:00,12:10:00,1:55:00,1.92
+,Osmosis,Viral hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:56,11/23/2015,12:19:00,12:45:00,0:26:00,0.43
+,Osmosis,Viral hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:56,11/23/2015,2:22:57,2:53:34,0:30:37,0.51
+,Osmosis,Viral hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:56,11/23/2015,2:22:57,2:22:57,0:00:01,0
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,1:54,11/23/2015,3:06:03,3:15:05,0:09:02,0.15
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,1:54,11/23/2015,3:15:39,5:01:19,1:45:40,1.76
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,7:06:05,7:07:04,0:00:59,0.02
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,7:11:02,7:20:58,0:09:56,0.17
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,7:21:16,7:59:37,0:38:21,0.64
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,8:06:20,8:33:06,0:26:46,0.45
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,8:34:47,8:34:54,0:00:07,0
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,8:54:00,9:15:00,0:21:00,0.35
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,8:55:06,9:01:50,0:06:44,0.11
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,9:11:35,11:58:21,2:46:46,2.78
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,12:04:54,1:00:07,0:55:13,0.92
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:25,11/24/2015,1:02:03,1:02:04,0:00:01,0
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,1:10,11/24/2015,1:21:55,2:32:14,1:10:19,1.17
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,1:10,11/24/2015,2:45:45,2:45:59,0:00:14,0
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,1:10,11/24/2015,2:55:46,2:55:54,0:00:08,0
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,0:23,11/24/2015,3:17:45,3:27:10,0:09:25,0.16
+,Osmosis,Bumpers,Tanner Marshall,bumper and logo,,,TRUE,,TRUE,0:23,11/24/2015,3:29:22,3:43:24,0:14:02,0.23
+,Osmosis,Viral hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,0:34,11/24/2015,3:52:46,4:27:05,0:34:19,0.57
+,Osmosis,Pneumonia,Tanner Marshall,Script,,,TRUE,,TRUE,6:10,11/18/2015,8:22:46,8:36:42,0:13:56,0.23
+,Osmosis,Pneumonia,Tanner Marshall,Script,,,TRUE,,TRUE,6:10,11/18/2015,8:48:18,9:27:57,0:39:39,0.66
+,Osmosis,Pneumonia,Tanner Marshall,Script,,,TRUE,,TRUE,6:10,11/18/2015,9:28:23,9:28:35,0:00:12,0
+,Osmosis,Pneumonia,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:10,11/18/2015,9:34:22,10:00:10,0:25:48,0.43
+,Osmosis,Pneumonia,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:10,11/18/2015,10:28:43,10:44:00,0:15:17,0.25
+,Osmosis,Pneumonia,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:10,11/18/2015,11:56:05,12:49:19,0:53:14,0.89
+,Osmosis,Pneumonia,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:10,11/18/2015,1:47:00,2:46:00,0:59:00,0.98
+,Osmosis,Pneumonia,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:10,11/18/2015,4:13:00,4:45:00,0:32:00,0.53
+,Osmosis,Pneumonia,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:10,11/18/2015,5:52:14,8:03:56,2:11:42,2.2
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,7:34:25,7:35:37,0:01:12,0.02
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,7:36:33,7:36:41,0:00:08,0
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,7:37:39,7:39:16,0:01:37,0.03
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,7:39:28,8:18:19,0:38:51,0.65
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,8:24:22,8:31:44,0:07:22,0.12
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,8:33:47,8:34:11,0:00:24,0.01
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:14,11/25/2015,8:35:57,9:01:10,0:25:13,0.42
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:12,11/25/2015,9:21:49,9:51:04,0:29:15,0.49
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:12,11/25/2015,9:51:12,10:33:22,0:42:10,0.7
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Write script,,,TRUE,30,TRUE,1:12,11/25/2015,10:35:39,10:36:56,0:01:17,0.02
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,10:55:48,11:18:24,0:22:36,0.38
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,11:35:53,11:46:34,0:10:41,0.18
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,11:51:52,12:36:27,0:44:35,0.74
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,1:21:24,1:21:24,0:00:01,0
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,1:24:07,1:24:07,0:00:01,0
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,1:24:09,2:44:45,1:20:36,1.34
+,Osmosis,Jaundice,Tanner Marshall,Write script,,,TRUE,,TRUE,2:38,11/25/2015,3:04:21,3:04:21,0:00:01,0
+,Osmosis,Alcoholic hepatitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:11,11/25/2015,3:32:37,4:43:58,1:11:21,1.19
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:06,11/30/2015,7:30:06,7:35:39,0:05:33,0.09
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:06,11/30/2015,7:35:43,7:36:43,0:01:00,0.02
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:21,11/30/2015,7:38:58,7:40:53,0:01:55,0.03
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:21,11/30/2015,7:44:33,7:55:04,0:10:31,0.18
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:21,11/30/2015,7:55:06,8:04:19,0:09:13,0.15
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:37,11/30/2015,8:30:53,10:12:21,1:41:28,1.69
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:37,11/30/2015,10:15:59,10:51:18,0:35:19,0.59
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:37,11/30/2015,10:57:57,11:16:41,0:18:44,0.31
+,Osmosis,Neonatal hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:37,11/30/2015,11:18:00,12:20:00,1:02:00,1.03
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Script revisions,,,TRUE,,TRUE,0:32,11/30/2015,1:18:17,1:51:02,0:32:45,0.55
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:29,11/30/2015,1:51:21,2:02:47,0:11:26,0.19
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:29,11/30/2015,2:03:59,2:21:56,0:17:57,0.3
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,11/30/2015,2:23:39,2:31:53,0:08:14,0.14
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,11/30/2015,2:32:56,3:39:14,1:06:18,1.1
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,11/30/2015,3:40:00,4:00:43,0:20:43,0.35
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,11/30/2015,4:07:56,4:17:57,0:10:01,0.17
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,11/30/2015,4:21:52,4:28:32,0:06:40,0.11
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,11/30/2015,4:29:23,5:38:03,1:08:40,1.14
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:14:26,7:21:52,0:07:26,0.12
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:33:41,7:34:14,0:00:33,0.01
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:36:11,7:44:09,0:07:58,0.13
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:48:36,8:31:10,0:42:34,0.71
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,8:40:17,9:21:13,0:40:56,0.68
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:14:26,7:21:52,0:07:26,0.12
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:33:41,7:34:14,0:00:33,0.01
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:36:11,7:44:09,0:07:58,0.13
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,7:48:36,8:31:10,0:42:34,0.71
+,Osmosis,Autoimmune hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:40,12/1/2015,8:40:17,9:21:13,0:40:56,0.68
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Script revisions,,,TRUE,,TRUE,0:07,12/1/2015,9:35:16,9:42:55,0:07:39,0.13
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:23,12/1/2015,9:43:09,9:53:00,0:09:51,0.16
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:23,12/1/2015,9:53:01,10:06:19,0:13:18,0.22
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:51,12/1/2015,10:11:15,10:20:44,0:09:29,0.16
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:51,12/1/2015,10:23:43,12:16:43,1:53:00,1.88
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:51,12/1/2015,1:23:23,1:51:52,0:28:29,0.47
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:51,12/1/2015,1:59:21,2:24:16,0:24:55,0.42
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:51,12/1/2015,2:29:16,3:33:16,1:04:00,1.07
+Video,Osmosis,Alcoholic hepatitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:51,12/1/2015,3:35:00,4:27:00,0:52:00,0.87
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Write script,,,TRUE,,TRUE,1:58,12/2/2015,7:24:45,8:03:50,0:39:05,0.65
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Write script,,,TRUE,,TRUE,1:58,12/2/2015,8:11:47,8:48:49,0:37:02,0.62
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Write script,,,TRUE,,TRUE,1:58,12/2/2015,8:48:58,9:24:50,0:35:52,0.6
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Write script,,,TRUE,,TRUE,1:58,12/2/2015,9:24:52,9:24:52,0:00:01,0
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Write script,,,TRUE,,TRUE,1:58,12/2/2015,9:24:52,9:30:56,0:06:04,0.1
+,Osmosis,Cirrhosis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:05,12/2/2015,9:44:41,11:49:56,2:05:15,2.09
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Write script,,,TRUE,,TRUE,1:51,12/2/2015,12:01:39,12:21:13,0:19:34,0.33
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Write script,,,TRUE,,TRUE,1:51,12/2/2015,12:52:03,2:24:20,1:32:17,1.54
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:13,12/2/2015,2:50:17,4:02:27,1:12:10,1.2
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:13,12/2/2015,4:07:57,4:46:52,0:38:55,0.65
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:13,12/2/2015,4:47:08,5:10:02,0:22:54,0.38
+Video,Osmosis,Jaundice,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:13,12/3/2015,7:31:00,7:41:00,0:10:00,0.17
+Video,Osmosis,Jaundice,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:13,12/3/2015,7:41:59,8:12:52,0:30:53,0.51
+Video,Osmosis,Jaundice,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:13,12/3/2015,8:17:15,8:49:53,0:32:38,0.54
+Video,Osmosis,Jaundice,Tanner Marshall,Record script,,,TRUE,,TRUE,0:50,12/3/2015,8:51:29,9:41:59,0:50:30,0.84
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,9:47:25,11:16:55,1:29:30,1.49
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,11:21:34,11:21:38,0:00:04,0
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,11:22:49,12:02:20,0:39:31,0.66
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,12:03:29,1:22:38,1:19:09,1.32
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,1:59:36,1:59:37,0:00:01,0
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,1:59:41,3:47:11,1:47:30,1.79
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/3/2015,3:59:39,4:47:11,0:47:32,0.79
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/4/2015,7:13:23,8:25:04,1:11:41,1.19
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/4/2015,8:25:18,8:56:12,0:30:54,0.52
+Video,Osmosis,Jaundice,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:58,12/4/2015,9:00:15,9:12:42,0:12:27,0.21
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,FALSE,2:07,12/4/2015,9:33:36,10:36:17,1:02:41,1.04
+Design,Osmosis,YouTube channel,Tanner Marshall,Moving videos over,,,TRUE,,TRUE,0:07,12/4/2015,10:37:50,10:44:59,0:07:09,0.12
+Design,Osmosis,YouTube channel,Tanner Marshall,Add feedback button,,,TRUE,,TRUE,0:21,12/4/2015,10:50:59,11:12:49,0:21:50,0.36
+Video,Osmosis,Wilson's disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:33,12/4/2015,11:14:28,11:19:58,0:05:30,0.09
+Video,Osmosis,Wilson's disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:33,12/4/2015,11:20:42,12:03:32,0:42:50,0.71
+Video,Osmosis,Wilson's disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:33,12/4/2015,12:11:33,12:57:09,0:45:36,0.76
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,FALSE,2:07,12/4/2015,1:44:10,2:33:05,0:48:55,0.82
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,FALSE,2:07,12/4/2015,2:56:42,3:12:15,0:15:33,0.26
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:29,12/4/2015,3:14:43,3:25:23,0:10:40,0.18
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:29,12/4/2015,3:27:10,4:11:33,0:44:23,0.74
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:29,12/4/2015,4:13:29,4:37:47,0:24:18,0.4
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:29,12/4/2015,4:39:37,4:50:04,0:10:27,0.17
+Design,Osmosis,YouTube channel,Tanner Marshall,Credits revision,,,TRUE,,TRUE,2:40,12/6/2015,10:07:00,10:18:00,0:11:00,0.18
+Design,Osmosis,YouTube channel,Tanner Marshall,Credits revision,,,TRUE,,TRUE,2:40,12/6/2015,5:10:02,6:09:03,0:59:01,0.98
+Design,Osmosis,YouTube channel,Tanner Marshall,Credits revision,,,TRUE,,TRUE,2:40,12/6/2015,6:11:15,6:23:07,0:11:52,0.2
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,TRUE,3:52,12/6/2015,6:23:34,6:45:30,0:21:56,0.37
+Design,Osmosis,YouTube channel,Tanner Marshall,Credits revision,,,TRUE,,TRUE,2:40,12/6/2015,6:45:48,6:53:05,0:07:17,0.12
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,TRUE,3:52,12/6/2015,6:57:44,7:08:12,0:10:28,0.17
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,TRUE,3:52,12/6/2015,7:14:42,7:36:42,0:22:00,0.37
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,12/7/2015,7:18:29,8:57:38,1:39:09,1.65
+Design,Osmosis,YouTube channel,Tanner Marshall,Credits revision,,,TRUE,,TRUE,2:40,12/7/2015,9:08:53,9:51:18,0:42:25,0.71
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Write script,,,TRUE,,TRUE,1:57,12/7/2015,9:54:42,10:41:45,0:47:03,0.78
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,TRUE,3:52,12/7/2015,12:01:57,12:05:46,0:03:49,0.06
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Write script,,,TRUE,,TRUE,1:57,12/7/2015,1:52:53,2:33:08,0:40:15,0.67
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Write script,,,TRUE,,TRUE,1:57,12/7/2015,2:35:32,3:05:57,0:30:25,0.51
+Video,Osmosis,Biliary atresia,Tanner Marshall,Write script,,,TRUE,,TRUE,0:57,12/7/2015,3:19:19,4:16:29,0:57:10,0.95
+Design,Osmosis,YouTube channel,Tanner Marshall,YouTube banner,,,TRUE,,TRUE,3:52,12/7/2015,4:17:09,5:04:05,0:46:56,0.78
+Design,Osmosis,YouTube channel,Tanner Marshall,Credits revision,,,TRUE,,TRUE,2:40,12/8/2015,7:10:45,7:39:42,0:28:57,0.48
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:33,12/8/2015,8:47:35,8:50:26,0:02:51,0.05
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:33,12/8/2015,8:54:25,9:13:37,0:19:12,0.32
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,1:33,12/8/2015,9:23:13,10:35:02,1:11:49,1.2
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Write script,,,TRUE,,TRUE,1:43,12/8/2015,11:22:38,11:36:57,0:14:19,0.24
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Write script,,,TRUE,,TRUE,1:43,12/8/2015,11:36:58,11:42:13,0:05:15,0.09
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Write script,,,TRUE,,TRUE,1:43,12/8/2015,11:51:56,12:18:53,0:26:57,0.45
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Write script,,,TRUE,,TRUE,1:43,12/8/2015,12:24:16,1:03:55,0:39:39,0.66
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Write script,,,TRUE,,TRUE,1:43,12/8/2015,1:32:59,1:50:02,0:17:03,0.28
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,12/8/2015,3:42:19,4:33:15,0:50:56,0.85
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,12/8/2015,4:38:28,5:16:19,0:37:51,0.63
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,12/8/2015,5:16:23,5:26:45,0:10:22,0.17
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:02,12/9/2015,9:15:43,10:06:28,0:50:45,0.85
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:02,12/9/2015,10:13:00,10:25:00,0:12:00,0.2
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Write script,,,TRUE,,TRUE,1:25,12/9/2015,10:36:05,10:42:10,0:06:05,0.1
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Write script,,,TRUE,,TRUE,1:25,12/9/2015,10:55:54,11:12:23,0:16:29,0.27
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Write script,,,TRUE,,TRUE,1:25,12/9/2015,11:13:28,11:35:09,0:21:41,0.36
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Write script,,,TRUE,,TRUE,1:25,12/9/2015,11:35:00,12:16:00,0:41:00,0.68
+Video,Osmosis,Hypoxia,Tanner Marshall,Write script,,,TRUE,,TRUE,2:10,12/10/2015,8:07:53,8:41:31,0:33:38,0.56
+Video,Osmosis,Hypoxia,Tanner Marshall,Write script,,,TRUE,,TRUE,2:10,12/10/2015,8:42:14,9:19:35,0:37:21,0.62
+Video,Osmosis,Hypoxia,Tanner Marshall,Write script,,,TRUE,,TRUE,2:10,12/10/2015,9:33:17,9:34:28,0:01:11,0.02
+Video,Osmosis,Hypoxia,Tanner Marshall,Write script,,,TRUE,,TRUE,2:10,12/10/2015,9:40:30,10:39:12,0:58:42,0.98
+Video,Osmosis,Ischemia,Tanner Marshall,Write script,,,TRUE,,TRUE,0:58,12/10/2015,12:04:59,12:10:30,0:05:31,0.09
+Video,Osmosis,Ischemia,Tanner Marshall,Write script,,,TRUE,,TRUE,0:58,12/10/2015,12:11:11,12:47:52,0:36:41,0.61
+Video,Osmosis,Ischemia,Tanner Marshall,Write script,,,TRUE,,TRUE,0:58,12/10/2015,1:13:51,1:29:45,0:15:54,0.26
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Revise script,,,TRUE,,TRUE,1:58,12/11/2015,7:27:21,7:51:20,0:23:59,0.4
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Revise script,,,TRUE,,TRUE,1:58,12/11/2015,7:54:43,9:29:38,1:34:55,1.58
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Record script,,,TRUE,,TRUE,0:44,12/11/2015,9:31:15,9:45:47,0:14:32,0.24
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Record script,,,TRUE,,TRUE,0:44,12/11/2015,10:40:30,11:10:24,0:29:54,0.5
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,12/11/2015,11:21:00,12:50:00,1:29:00,1.48
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,12/11/2015,1:22:59,1:37:16,0:14:17,0.24
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,12/11/2015,2:07:01,2:27:28,0:20:27,0.34
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,12/11/2015,2:30:08,4:14:38,1:44:30,1.74
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,12/11/2015,4:15:24,5:12:34,0:57:10,0.95
+Video,Osmosis,Obstructive liver disease (cholestasis),Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,12/11/2015,5:32:45,5:41:25,0:08:40,0.14
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:04,12/14/2015,7:11:47,7:29:10,0:17:23,0.29
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:04,12/14/2015,7:29:50,7:56:30,0:26:40,0.44
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:04,12/14/2015,7:59:25,8:19:58,0:20:33,0.34
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:57,12/14/2015,8:21:16,9:18:51,0:57:35,0.96
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:57,12/14/2015,9:18:54,9:18:54,0:00:01,0
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,9:20:27,9:29:16,0:08:49,0.15
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,9:29:56,10:47:04,1:17:08,1.29
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,10:48:27,11:05:42,0:17:15,0.29
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,11:07:07,11:31:55,0:24:48,0.41
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,11:35:00,12:43:00,1:08:00,1.13
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,12:55:12,1:12:22,0:17:10,0.29
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,1:20:00,1:55:00,0:35:00,0.58
+Video,Osmosis,Hemochromatosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:52,12/14/2015,2:40:11,4:24:53,1:44:42,1.74
+,Osmosis,Cirrhosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:07,12/15/2015,7:19:06,7:19:06,0:00:01,0
+,Osmosis,Cirrhosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:07,12/15/2015,7:19:52,8:23:01,1:03:09,1.05
+,Osmosis,Cirrhosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:07,12/15/2015,8:38:17,8:42:58,0:04:41,0.08
+,Osmosis,Cirrhosis,Tanner Marshall,Record script,,0:00,TRUE,,TRUE,0:28,12/15/2015,8:49:07,9:17:10,0:28:03,0.47
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,9:24:10,9:33:03,0:08:53,0.15
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,9:34:36,10:07:41,0:33:05,0.55
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,10:08:39,11:25:07,1:16:28,1.27
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,11:27:13,12:28:52,1:01:39,1.03
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,1:03:47,1:21:38,0:17:51,0.3
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,1:26:07,2:38:40,1:12:33,1.21
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,2:49:44,3:44:58,0:55:14,0.92
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,3:45:09,3:45:18,0:00:09,0
+,Osmosis,Cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:50,12/15/2015,3:47:24,4:12:19,0:24:55,0.42
+Design,Osmosis,YouTube channel,Tanner Marshall,Revise and upload videos,,,TRUE,,TRUE,3:39,12/15/2015,8:15:00,10:06:00,1:51:00,1.85
+Design,Osmosis,YouTube channel,Tanner Marshall,Revise and upload videos,,,TRUE,,TRUE,3:39,12/16/2015,7:02:09,8:01:03,0:58:54,0.98
+Design,Osmosis,YouTube channel,Tanner Marshall,Revise and upload videos,,,TRUE,,TRUE,3:39,12/16/2015,8:02:00,8:46:00,0:44:00,0.73
+Design,Osmosis,YouTube channel,Tanner Marshall,Revise and upload videos,,,TRUE,,TRUE,3:39,12/16/2015,8:47:00,8:53:00,0:06:00,0.1
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Revise script,,,TRUE,,TRUE,2:37,12/16/2015,9:02:32,9:42:01,0:39:29,0.66
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Revise script,,,TRUE,,TRUE,2:37,12/16/2015,9:43:12,11:41:11,1:57:59,1.97
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Record script,,,TRUE,,TRUE,0:39,12/16/2015,12:14:56,12:33:52,0:18:56,0.32
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Record script,,,TRUE,,TRUE,0:39,12/16/2015,12:57:26,1:17:34,0:20:08,0.34
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/16/2015,1:17:47,1:19:10,0:01:23,0.02
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/16/2015,1:20:45,2:10:56,0:50:11,0.84
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/16/2015,2:11:47,3:25:52,1:14:05,1.23
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/16/2015,3:40:25,4:39:49,0:59:24,0.99
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/17/2015,7:15:25,8:34:23,1:18:58,1.32
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/17/2015,8:38:09,9:17:58,0:39:49,0.66
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/17/2015,9:18:29,10:02:49,0:44:20,0.74
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/17/2015,10:04:11,10:35:06,0:30:55,0.52
+Video,Osmosis,Cholelithiasis (gallstones),Tanner Marshall,Visuals,,,TRUE,,TRUE,6:51,12/17/2015,10:37:59,11:10:00,0:32:01,0.53
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:22,12/17/2015,11:21:47,12:43:50,1:22:03,1.37
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:25,12/17/2015,1:22:48,1:48:27,0:25:39,0.43
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/17/2015,1:53:26,2:04:05,0:10:39,0.18
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/17/2015,2:18:26,2:54:22,0:35:56,0.6
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/17/2015,3:35:24,4:29:24,0:54:00,0.9
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,6:36:27,7:24:45,0:48:18,0.8
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,7:25:33,7:31:06,0:05:33,0.09
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,7:31:06,7:31:07,0:00:01,0
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,7:33:03,7:33:23,0:00:20,0.01
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,7:43:39,7:45:55,0:02:16,0.04
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,7:54:35,8:01:24,0:06:49,0.11
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,8:02:41,8:25:14,0:22:33,0.38
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,8:41:58,9:56:02,1:14:04,1.23
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,9:58:16,10:14:13,0:15:57,0.27
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,10:15:58,10:29:57,0:13:59,0.23
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,10:37:03,11:47:31,1:10:28,1.17
+Video,Osmosis,Primary biliary cirrhosis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:15,12/18/2015,11:57:43,12:12:44,0:15:01,0.25
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:46,12/27/2015,9:08:24,9:54:34,0:46:10,0.77
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:28,12/27/2015,10:20:00,10:48:26,0:28:26,0.47
+Video,Osmosis,Hypoxemia,Tanner Marshall,Write script,,,TRUE,,FALSE,0:00,12/27/2015,3:07:21,3:07:21,0:00:01,0
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,7:58:59,8:06:06,0:07:07,0.12
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,8:14:11,8:20:48,0:06:37,0.11
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,8:34:35,9:48:31,1:13:56,1.23
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,9:51:44,10:45:55,0:54:11,0.9
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,10:49:51,11:04:52,0:15:01,0.25
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,11:06:37,11:13:19,0:06:42,0.11
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,11:20:34,12:09:40,0:49:06,0.82
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,12:21:09,12:29:10,0:08:01,0.13
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,12:30:48,1:50:13,1:19:25,1.32
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,2:21:07,3:39:02,1:17:55,1.3
+Video,Osmosis,Acute cholecystitis,Tanner Marshall,Visuals,,0:00,TRUE,,TRUE,6:24,12/28/2015,3:41:01,3:47:46,0:06:45,0.11
+Video,Osmosis,Wilson's disease,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:28,12/28/2015,6:49:14,7:09:11,0:19:57,0.33
+Video,Osmosis,Wilson's disease,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:28,12/28/2015,7:12:47,7:21:38,0:08:51,0.15
+Video,Osmosis,Wilson's disease,Tanner Marshall,Record script,,,TRUE,,TRUE,0:26,12/29/2015,7:53:46,8:19:54,0:26:08,0.44
+Video,Osmosis,Wilson's disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:54,12/29/2015,8:31:50,9:52:57,1:21:07,1.35
+Video,Osmosis,Wilson's disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:54,12/29/2015,10:06:07,12:03:05,1:56:58,1.95
+Video,Osmosis,Wilson's disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:54,12/29/2015,1:14:05,2:22:20,1:08:15,1.14
+Video,Osmosis,Wilson's disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:54,12/29/2015,2:23:08,3:21:48,0:58:40,0.98
+Video,Osmosis,Wilson's disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:54,12/29/2015,3:25:45,3:55:33,0:29:48,0.5
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:12,12/30/2015,8:19:15,8:23:50,0:04:35,0.08
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:12,12/30/2015,8:25:13,8:32:59,0:07:46,0.13
+Video,Osmosis,Biliary atresia,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:03,12/30/2015,8:41:42,8:45:21,0:03:39,0.06
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:24,12/30/2015,10:54:30,11:18:53,0:24:23,0.41
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,11:30:23,11:37:17,0:06:54,0.12
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,11:41:30,1:06:05,1:24:35,1.41
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,1:35:12,1:51:37,0:16:25,0.27
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,1:55:05,2:45:00,0:49:55,0.83
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,2:59:41,3:02:29,0:02:48,0.05
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,3:04:47,3:10:52,0:06:05,0.1
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,3:16:03,3:17:19,0:01:16,0.02
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,3:17:20,4:12:40,0:55:20,0.92
+Video,Osmosis,Chronic cholecystitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:30,12/30/2015,4:20:13,5:07:29,0:47:16,0.79
+Video,Osmosis,Biliary atresia,Tanner Marshall,Record script,,,TRUE,,TRUE,0:10,12/31/2015,8:37:17,8:47:30,0:10:13,0.17
+Video,Osmosis,Biliary atresia,Tanner Marshall,Record script,,,TRUE,,TRUE,0:10,12/31/2015,8:47:30,8:47:30,0:00:01,0
+Video,Osmosis,Biliary atresia,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:12,12/31/2015,8:47:46,8:49:18,0:01:32,0.03
+Video,Osmosis,Biliary atresia,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:12,12/31/2015,8:50:46,10:03:47,1:13:01,1.22
+Video,Osmosis,Biliary atresia,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:12,12/31/2015,10:05:22,10:29:07,0:23:45,0.4
+Video,Osmosis,Biliary atresia,Tanner Marshall,Visuals,,,TRUE,,TRUE,3:12,12/31/2015,10:34:42,12:08:54,1:34:12,1.57
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:41,12/31/2015,12:22:47,12:39:27,0:16:40,0.28
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:41,12/31/2015,1:28:48,1:28:56,0:00:08,0
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:41,12/31/2015,1:29:39,1:54:31,0:24:52,0.41
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Record script,,,TRUE,,TRUE,0:26,12/31/2015,1:57:12,2:23:57,0:26:45,0.45
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,2:26:10,2:29:33,0:03:23,0.06
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,2:32:00,2:40:00,0:08:00,0.13
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,2:40:50,3:39:13,0:58:23,0.97
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,3:41:39,4:48:23,1:06:44,1.11
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,4:50:18,5:00:46,0:10:28,0.17
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,5:04:51,5:19:45,0:14:54,0.25
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,5:21:36,5:21:36,0:00:01,0
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,12/31/2015,5:21:37,5:33:28,0:11:51,0.2
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,1/1/2016,8:58:27,10:01:42,1:03:15,1.05
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,1/1/2016,10:13:20,10:17:51,0:04:31,0.08
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,1/1/2016,10:19:20,10:19:54,0:00:34,0.01
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,1/1/2016,10:23:01,10:23:04,0:00:02,0
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,1/1/2016,10:23:32,11:07:51,0:44:19,0.74
+Video,Osmosis,Benign hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:09,1/1/2016,11:09:35,11:32:27,0:22:52,0.38
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:36,1/1/2016,11:53:41,12:11:36,0:17:55,0.3
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:36,1/1/2016,12:14:25,12:15:58,0:01:33,0.03
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:36,1/1/2016,12:17:14,12:34:39,0:17:25,0.29
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:25,1/1/2016,12:43:00,12:55:00,0:12:00,0.2
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:25,1/1/2016,12:56:04,1:09:49,0:13:45,0.23
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/1/2016,2:30:17,2:44:46,0:14:29,0.24
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/1/2016,2:47:06,3:31:01,0:43:55,0.73
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/1/2016,3:55:50,4:45:10,0:49:20,0.82
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/1/2016,4:46:13,5:23:40,0:37:27,0.62
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/2/2016,12:40:19,1:03:19,0:23:00,0.38
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/2/2016,1:27:00,2:05:00,0:38:00,0.63
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/2/2016,2:17:00,2:35:00,0:18:00,0.3
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/2/2016,2:48:16,2:57:07,0:08:51,0.15
+Design,Osmosis,Bumpers revision,Tanner Marshall,Front bumper,,,TRUE,,TRUE,1:24,1/3/2016,8:24:47,9:04:09,0:39:22,0.66
+Design,Osmosis,Bumpers revision,Tanner Marshall,Front bumper,,,TRUE,,TRUE,1:24,1/3/2016,10:16:18,11:01:23,0:45:05,0.75
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/4/2016,7:44:53,9:05:27,1:20:34,1.34
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/4/2016,9:06:06,9:29:41,0:23:35,0.39
+Video,Osmosis,Primary sclerosing cholangitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:31,1/4/2016,9:31:00,10:25:00,0:54:00,0.9
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:10,1/4/2016,10:28:00,10:33:00,0:05:00,0.08
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:10,1/4/2016,10:33:56,10:39:51,0:05:55,0.1
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Record script,,,TRUE,,TRUE,0:22,1/4/2016,10:48:00,10:57:00,0:09:00,0.15
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Record script,,,TRUE,,TRUE,0:22,1/4/2016,10:58:06,11:11:38,0:13:32,0.23
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:34,1/4/2016,11:13:25,12:19:37,1:06:12,1.1
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:34,1/4/2016,12:22:49,1:15:55,0:53:06,0.88
+Video,Osmosis,Gallbladder (adeno)carcinoma,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:34,1/4/2016,1:51:08,4:25:52,2:34:44,2.58
+Video,Osmosis,Ischemia,Tanner Marshall,Revise script,,,TRUE,,TRUE,2:17,1/5/2016,7:58:00,10:15:00,2:17:00,2.28
+Video,Osmosis,Shock,Tanner Marshall,Write script,,,TRUE,,TRUE,2:30,1/5/2016,10:25:25,10:26:30,0:01:05,0.02
+Video,Osmosis,Shock,Tanner Marshall,Write script,,,TRUE,,TRUE,2:30,1/5/2016,10:27:04,11:10:34,0:43:30,0.72
+Video,Osmosis,Shock,Tanner Marshall,Write script,,,TRUE,,TRUE,2:30,1/5/2016,11:14:35,12:51:33,1:36:58,1.62
+Video,Osmosis,Shock,Tanner Marshall,Write script,,,TRUE,,TRUE,2:30,1/5/2016,12:52:21,1:01:43,0:09:22,0.16
+,Osmosis,Appendicitis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:21,1/5/2016,1:28:29,1:51:08,0:22:39,0.38
+,Osmosis,Appendicitis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:21,1/5/2016,1:55:19,1:55:19,0:00:01,0
+,Osmosis,Appendicitis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:21,1/5/2016,1:55:53,2:58:18,1:02:25,1.04
+,Osmosis,Appendicitis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:21,1/5/2016,4:14:58,4:15:36,0:00:37,0.01
+,Osmosis,Appendicitis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:21,1/5/2016,4:15:40,4:25:40,0:10:00,0.17
+,Osmosis,Appendicitis,Tanner Marshall,Write script,,,TRUE,,TRUE,2:21,1/5/2016,7:18:06,8:04:23,0:46:17,0.77
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:50,1/5/2016,8:11:05,8:50:38,0:39:33,0.66
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Write script,,,TRUE,,TRUE,1:50,1/6/2016,7:08:37,8:20:02,1:11:25,1.19
+Video,Osmosis,Crohn disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,1/6/2016,8:21:45,8:46:41,0:24:56,0.42
+Video,Osmosis,Crohn disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,1/6/2016,8:52:34,9:22:58,0:30:24,0.51
+Video,Osmosis,Crohn disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,1/6/2016,9:32:01,10:01:02,0:29:01,0.48
+Video,Osmosis,Crohn disease,Tanner Marshall,Write script,,,TRUE,,TRUE,1:39,1/6/2016,10:01:38,10:16:53,0:15:15,0.25
+Video,Osmosis,Celiac disease,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,2:21,1/6/2016,10:26:48,11:15:17,0:48:29,0.81
+Video,Osmosis,Celiac disease,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,2:21,1/6/2016,11:15:37,11:36:44,0:21:07,0.35
+Video,Osmosis,Celiac disease,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,2:21,1/6/2016,11:37:38,12:46:06,1:08:28,1.14
+Video,Osmosis,Celiac disease,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,2:21,1/6/2016,1:49:29,1:49:31,0:00:02,0
+Video,Osmosis,Celiac disease,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,2:21,1/6/2016,1:53:30,1:56:34,0:03:04,0.05
+Video,Osmosis,Celiac disease,Tanner Marshall,Write script,,0:00,TRUE,,TRUE,2:21,1/6/2016,1:56:36,1:56:36,0:00:01,0
+Video,Osmosis,Lactose intolerance,Tanner Marshall,Write script,,,TRUE,,TRUE,2:00,1/6/2016,2:06:30,3:50:51,1:44:21,1.74
+Video,Osmosis,Lactose intolerance,Tanner Marshall,Write script,,,TRUE,,TRUE,2:00,1/6/2016,3:51:00,4:04:00,0:13:00,0.22
+Video,Osmosis,Lactose intolerance,Tanner Marshall,Write script,,,TRUE,,TRUE,2:00,1/6/2016,4:05:04,4:08:16,0:03:12,0.05
+Video,Osmosis,Hypoxia,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:41,1/7/2016,7:03:10,7:34:20,0:31:10,0.52
+Video,Osmosis,Hypoxia,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:41,1/7/2016,7:40:12,7:50:06,0:09:54,0.16
+Video,Osmosis,Hypoxia,Tanner Marshall,Record script,,,TRUE,,TRUE,0:30,1/7/2016,7:54:58,8:25:57,0:30:59,0.52
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,8:30:00,8:40:00,0:10:00,0.17
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,8:44:28,10:14:58,1:30:30,1.51
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,10:17:44,11:57:08,1:39:24,1.66
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,1:10:56,1:28:51,0:17:55,0.3
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,1:35:50,1:51:33,0:15:43,0.26
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,1:54:14,2:06:32,0:12:18,0.2
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:10,1/7/2016,2:09:40,3:20:21,1:10:41,1.18
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/7/2016,6:01:19,7:41:06,1:39:46,1.66
+Video,Osmosis,Hypoxia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:19,1/8/2016,6:43:34,8:17:04,1:33:30,1.56
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Record script,,,TRUE,,TRUE,0:54,1/8/2016,8:31:00,9:25:00,0:54:00,0.9
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,9:32:04,9:32:17,0:00:13,0
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,9:33:18,10:22:53,0:49:35,0.83
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,10:25:00,10:50:00,0:25:00,0.42
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,10:50:20,11:36:55,0:46:35,0.78
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,11:45:15,12:27:58,0:42:43,0.71
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,1:02:07,1:35:11,0:33:04,0.55
+Video,Osmosis,Reye Syndrome,Tanner Marshall,Visuals,,,TRUE,,TRUE,4:54,1/8/2016,1:38:31,3:16:13,1:37:42,1.63
+Design,Osmosis,YouTube channel,Tanner Marshall,Descriptions & annotations,,,TRUE,,TRUE,0:36,1/8/2016,3:18:36,3:55:16,0:36:40,0.61
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Revise script,,,TRUE,,TRUE,1:28,1/11/2016,8:06:39,9:35:37,1:28:58,1.48
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Record script,,,TRUE,,TRUE,0:46,1/11/2016,9:39:16,9:56:18,0:17:02,0.28
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Record script,,,TRUE,,TRUE,0:46,1/11/2016,10:00:45,10:30:29,0:29:44,0.5
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,10:32:59,10:34:31,0:01:32,0.03
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,10:36:18,10:38:03,0:01:45,0.03
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,10:40:08,12:00:35,1:20:27,1.34
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,12:02:02,1:04:41,1:02:39,1.04
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,1:31:54,3:19:53,1:47:59,1.8
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,3:29:45,4:05:13,0:35:28,0.59
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,4:06:35,4:17:37,0:11:02,0.18
+Video,Osmosis,Malignant hepatic tumors,Tanner Marshall,Visuals,,,TRUE,,TRUE,6:19,1/11/2016,4:19:20,5:38:05,1:18:45,1.31
+Video,Osmosis,Ischemia,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:19,1/12/2016,7:04:31,7:23:50,0:19:19,0.32
+Video,Osmosis,Ischemia,Tanner Marshall,Record script,,,TRUE,,TRUE,0:40,1/12/2016,7:31:50,8:12:30,0:40:40,0.68
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,8:20:31,9:20:09,0:59:38,0.99
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,9:21:45,11:27:04,2:05:19,2.09
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,11:39:06,11:39:07,0:00:01,0
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,11:40:46,12:51:07,1:10:21,1.17
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,1:31:36,3:37:57,2:06:21,2.11
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,3:44:20,4:04:04,0:19:44,0.33
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/12/2016,4:08:04,4:58:27,0:50:23,0.84
+Video,Osmosis,Ischemia,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:49,1/13/2016,6:48:12,7:06:08,0:17:56,0.3
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,7:12:25,9:21:44,2:09:19,2.16
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,9:27:00,10:15:58,0:48:58,0.82
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,10:17:37,10:26:05,0:08:28,0.14
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,10:30:00,12:01:05,1:31:05,1.52
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,12:45:00,1:48:00,1:03:00,1.05
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,1:48:56,2:22:56,0:34:00,0.57
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,2:35:13,3:40:18,1:05:05,1.08
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/13/2016,3:42:25,4:32:51,0:50:26,0.84
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,6:56:22,7:05:00,0:08:38,0.14
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,7:08:51,7:28:20,0:19:29,0.32
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,8:18:40,8:50:17,0:31:37,0.53
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,8:58:39,8:58:39,0:00:01,0
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,8:58:49,10:52:22,1:53:33,1.89
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,10:53:45,11:00:13,0:06:28,0.11
+Video,Osmosis,Aneurysms,Tanner Marshall,Visuals,,,TRUE,,TRUE,11:16,1/14/2016,11:03:14,11:09:34,0:06:20,0.11
+Video,Osmosis,Free Radicals,Tanner Marshall,VIsuals (revisions),,,TRUE,,TRUE,1:18,1/14/2016,11:22:05,11:28:32,0:06:27,0.11
+Video,Osmosis,Free Radicals,Tanner Marshall,VIsuals (revisions),,,TRUE,,TRUE,1:18,1/14/2016,11:38:05,12:35:12,0:57:07,0.95
+Video,Osmosis,Free Radicals,Tanner Marshall,VIsuals (revisions),,,TRUE,,TRUE,1:18,1/14/2016,12:35:24,12:50:34,0:15:10,0.25
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:05,1/14/2016,1:33:31,1:38:37,0:05:06,0.08
+Design,Osmosis,YouTube channel,Tanner Marshall,Banner revision,,,TRUE,,TRUE,1:05,1/14/2016,1:51:06,1:51:49,0:00:43,0.01
+Design,Osmosis,YouTube channel,Tanner Marshall,Banner revision,,,TRUE,,TRUE,1:05,1/14/2016,1:54:09,2:58:44,1:04:35,1.08
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:36,1/14/2016,3:05:00,3:41:20,0:36:20,0.61
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Visuals,,,TRUE,,FALSE,0:58,1/14/2016,3:51:14,4:49:18,0:58:04,0.97
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:18,1/15/2016,6:55:05,8:15:38,1:20:33,1.34
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:18,1/15/2016,8:23:49,10:26:12,2:02:23,2.04
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:18,1/15/2016,10:38:15,11:21:32,0:43:17,0.72
+Video,Osmosis,Ulcerative colitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:18,1/15/2016,11:24:47,11:38:47,0:14:00,0.23
+,Osmosis,Administration,Tanner Marshall,Share scripts to Wikimedia + group,,,TRUE,,TRUE,0:25,1/15/2016,11:40:00,11:54:00,0:14:00,0.23
+,Osmosis,Administration,Tanner Marshall,Share scripts to Wikimedia + group,,,TRUE,,TRUE,0:25,1/15/2016,11:54:26,12:05:50,0:11:24,0.19
+Video,Osmosis,Crohn disease,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:28,1/15/2016,12:49:00,12:56:00,0:07:00,0.12
+Video,Osmosis,Crohn disease,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:28,1/15/2016,1:01:59,1:23:24,0:21:25,0.36
+Video,Osmosis,Crohn disease,Tanner Marshall,Revise scipt,,,TRUE,,TRUE,0:34,1/15/2016,1:23:49,1:25:23,0:01:34,0.03
+Video,Osmosis,Crohn disease,Tanner Marshall,Revise scipt,,,TRUE,,TRUE,0:34,1/15/2016,1:27:56,2:00:34,0:32:38,0.54
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/15/2016,2:18:41,2:36:18,0:17:37,0.29
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/15/2016,2:36:00,4:24:00,1:48:00,1.8
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/18/2016,7:27:30,7:38:01,0:10:31,0.18
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/18/2016,7:42:08,9:06:41,1:24:33,1.41
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/18/2016,9:14:18,9:38:14,0:23:56,0.4
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/18/2016,11:55:00,12:59:24,1:04:24,1.07
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/18/2016,1:35:36,3:33:58,1:58:22,1.97
+Video,Osmosis,Crohn disease,Tanner Marshall,Visuals,,,TRUE,,TRUE,7:15,1/18/2016,3:33:59,3:42:34,0:08:35,0.14
+,Osmosis,Administration,Tanner Marshall,Descriptions,,,TRUE,,TRUE,0:23,1/18/2016,4:14:37,4:38:06,0:23:29,0.39
+,Osmosis,Generalized anxiety disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,1:08,1/19/2016,6:53:19,6:53:58,0:00:39,0.01
+,Osmosis,Generalized anxiety disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,1:08,1/19/2016,6:55:13,8:02:50,1:07:37,1.13
+Video,Osmosis,Obsessive compulsive disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,1:28,1/19/2016,8:15:54,9:44:07,1:28:13,1.47
+Video,Osmosis,Phobias,Tanner Marshall,Write script,,,TRUE,,TRUE,1:18,1/19/2016,9:49:13,10:19:24,0:30:11,0.5
+Video,Osmosis,Phobias,Tanner Marshall,Write script,,,TRUE,,TRUE,1:18,1/19/2016,10:25:35,11:14:08,0:48:33,0.81
+Video,Osmosis,Panic disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,0:58,1/19/2016,11:20:00,11:48:00,0:28:00,0.47
+Video,Osmosis,Panic disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,0:58,1/19/2016,11:49:47,12:20:06,0:30:19,0.51
+Video,Osmosis,Autism spectrum disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,1:31,1/19/2016,1:24:55,2:36:39,1:11:44,1.2
+Video,Osmosis,Autism spectrum disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,1:31,1/19/2016,2:39:18,2:43:03,0:03:45,0.06
+Video,Osmosis,Autism spectrum disorder,Tanner Marshall,Write script,,,TRUE,,TRUE,1:31,1/19/2016,2:43:51,2:59:51,0:16:00,0.27
+Video,Osmosis,Schizophrenia,Tanner Marshall,Write script,,,TRUE,,FALSE,1:23,1/19/2016,3:25:23,4:48:23,1:23:00,1.38
+Video,Osmosis,Appendicitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:25,1/20/2016,6:58:38,6:59:32,0:00:54,0.02
+Video,Osmosis,Appendicitis,Tanner Marshall,Revise script,,,TRUE,,TRUE,0:25,1/20/2016,7:04:55,7:29:54,0:24:59,0.42
+Video,Osmosis,Appendicitis,Tanner Marshall,Record script,,,TRUE,,TRUE,0:34,1/20/2016,7:45:36,8:19:40,0:34:04,0.57
+Video,Osmosis,Appendicitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:08,1/20/2016,8:21:57,10:05:33,1:43:36,1.73
+Video,Osmosis,Appendicitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:08,1/20/2016,10:12:30,11:15:53,1:03:23,1.06
+Video,Osmosis,Appendicitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:08,1/20/2016,11:16:00,12:04:00,0:48:00,0.8
+Video,Osmosis,Appendicitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:08,1/20/2016,12:56:33,1:32:30,0:35:57,0.6
+Video,Osmosis,Appendicitis,Tanner Marshall,Visuals,,,TRUE,,TRUE,5:08,1/20/2016,1:45:32,2:43:02,0:57:30,0.96
+Video,Osmosis,Aneurysms,Tanner Marshall,Revise audio,,,TRUE,,TRUE,0:29,1/20/2016,2:46:53,3:16:33,0:29:40,0.49

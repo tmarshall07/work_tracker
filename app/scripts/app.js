@@ -1,8 +1,8 @@
-var timesheet;
+var parsedFile;
 
-//Load most recent timesheet
+loadAllProjects();
 
-loadCurrentSheet();
+//Handler for loading selected month
 
 $('#month-submit').on('click', function(){
 
@@ -22,6 +22,9 @@ $('#month-submit').on('click', function(){
 	});
 });
 
+
+//Handler for showing tasks when clicking rows
+
 $( "tbody" ).on( "click", "tr.project-row", function() {
 
   $('.task-container').slideUp('fast', function(){
@@ -35,10 +38,10 @@ $( "tbody" ).on( "click", "tr.project-row", function() {
 	  $( this ).addClass('selected-row');
 
 	  var project = $( this ).attr('value');
-	  var taskArray = getTaskArray(project);
+	  var taskArray = getTaskArray(parsedFile, project);
 	  var pieData = [];
 
-	  for(i = 0; i < taskArray.length; i++){
+	  for(var i = 0; i < taskArray.length; i++){
 
 	  	var color = Math.floor(Math.random() * 255) + "," + Math.floor(Math.random() * 255) + "," + Math.floor(Math.random() * 255);
 	 
@@ -64,7 +67,7 @@ $( "tbody" ).on( "click", "tr.project-row", function() {
 	  $('.task-container').slideDown('fast', function(){
 
 	  	var ctx1 = document.getElementById("chart-area1").getContext("2d");
-	    window.myPie = new Chart(ctx1).Pie(pieData);
+	    window.myPie = new Chart(ctx1).Pie(pieData, {animationSteps: 30});
 	    // document.getElementById('js-legend').innerHTML = myPie.generateLegend();
 	  	
 	  });
@@ -77,7 +80,7 @@ $( "tbody" ).on( "click", "tr.project-row", function() {
 // the object
 
 function findObjectByName(arr, name, exists){
-	for(i = 0; i < arr.length; i++){
+	for(var i = 0; i < arr.length; i++){
 		if(arr[i].name == name){
 			return (exists === true) ? true : arr[i];
 		}
@@ -86,13 +89,13 @@ function findObjectByName(arr, name, exists){
 
 // Function that loads up the current month's timesheet on initial page load
 
-function loadCurrentSheet(){
+function loadCurrentMonth(){
 	var months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"];
 	var options = [];
 	var currentMonth;
 	var d = new Date();
 
-	for(i = 1; i < $(".month-selector option").length + 1; i++){
+	for(var i = 1; i < $(".month-selector option").length + 1; i++){
 		if(months[d.getMonth()] == $(".month-selector option:nth-child(" + i.toString() + ")").val()){
 			currentMonth = months[d.getMonth()];
 		}
@@ -111,28 +114,30 @@ function loadCurrentSheet(){
 
 }
 
-function getHeaderLocations(){
+function getHeaderLocations(parsedFile){
 	var header = {
-		project: timesheet[0].indexOf('Project'),
-		hours: timesheet[0].indexOf('Hours'),
-		task: timesheet[0].indexOf('Task')
+		project: parsedFile[0].indexOf('Project'),
+		hours: parsedFile[0].indexOf('Hours'),
+		task: parsedFile[0].indexOf('Task'),
+		date: parsedFile[0].indexOf('Date')
 	}
 
 	return header;
 }
 
-function getProjectArray(){
+function getProjectArray(parsedFile){
 
-	var projectCol = getHeaderLocations().project;
-	var hoursCol = getHeaderLocations().hours;
+	var projectCol = getHeaderLocations(parsedFile).project;
+	var hoursCol = getHeaderLocations(parsedFile).hours;
 	var projectObs = [];
 
-	for(var i = 1; i < timesheet.length; i++){
+	for(var i = 1; i < parsedFile.length; i++){
 		
-		if(!findObjectByName(projectObs, timesheet[i][projectCol], true) && timesheet[i][projectCol] !== undefined){
+		if(!findObjectByName(projectObs, parsedFile[i][projectCol], true) && parsedFile[i][projectCol] !== undefined){
 			var newProject = {
-				name: timesheet[i][projectCol],
-				hours: 0
+				name: parsedFile[i][projectCol],
+				hours: 0,
+				dateCompleted: ""
 			}
 
 			projectObs.push(newProject);
@@ -142,18 +147,20 @@ function getProjectArray(){
 	return projectObs;
 }
 
-function getTaskArray(project){
-	var projectCol = getHeaderLocations().project;
-	var hoursCol = getHeaderLocations().hours;
-	var taskCol = getHeaderLocations().task;
+function getTaskArray(parsedFile, project){
+	var projectCol = getHeaderLocations(parsedFile).project;
+	var hoursCol = getHeaderLocations(parsedFile).hours;
+	var taskCol = getHeaderLocations(parsedFile).task;
+	var dateCol = getHeaderLocations(parsedFile).date;
 	var taskObs = [];
 
-	for(var i = 1; i < timesheet.length; i++){
+	for(var i = 1; i < parsedFile.length; i++){
 		
-		if(timesheet[i][projectCol] == project && !findObjectByName(taskObs, timesheet[i][taskCol]) && timesheet[i][projectCol] !== undefined){
+		if(parsedFile[i][projectCol] == project && !findObjectByName(taskObs, parsedFile[i][taskCol]) && parsedFile[i][projectCol] !== undefined){
 			var newTask = {
-				name: timesheet[i][taskCol],
-				hours: 0
+				name: parsedFile[i][taskCol],
+				hours: 0,
+				dates: []
 			}
 
 			taskObs.push(newTask);
@@ -161,12 +168,15 @@ function getTaskArray(project){
 
 	}
 
-	for(var i = 1; i < timesheet.length; i++){
+	for(var i = 1; i < parsedFile.length; i++){
 		
-		var currentObject = findObjectByName(taskObs, timesheet[i][taskCol]);
+		var currentObject = findObjectByName(taskObs, parsedFile[i][taskCol]);
 
-		if(timesheet[i][projectCol] == project && timesheet[i][taskCol] == currentObject.name){
-			currentObject.hours += Number(timesheet[i][hoursCol]);
+		if(parsedFile[i][projectCol] == project && parsedFile[i][taskCol] == currentObject.name){
+			currentObject.hours += Number(parsedFile[i][hoursCol]);
+
+			var d = new Date(parsedFile[i][dateCol]);
+			currentObject.dates.push(d.getTime());
 		}
 	}
 
@@ -174,45 +184,51 @@ function getTaskArray(project){
 
 }
 
-//creates table from Papaparse csv file
+function generateProjects(parsedFile){
+	var projects = getProjectArray(parsedFile);
 
-function loadTimesheet(timesheet){
-	var projectCol = getHeaderLocations().project;
-	var hoursCol = getHeaderLocations().hours;
-	var totalHours = 0;
+	for(var i = 0; i < projects.length; i++){
+		projects[i]['tasks'] = getTaskArray(parsedFile, projects[i].name);
 
-	//Create header for table 
+		var totalProjectHours = 0;
+		var dateCompleted = "0";
 
-	$('thead').append("<th>" + timesheet[0][projectCol] + "</th>" +
-					  "<th>" + timesheet[0][hoursCol] + "</th>");
+		for(var j = 0; j < projects[i].tasks.length; j++){
 
-	//Create objects for each project and add them to array "projectObs"
-	
-	var projectObs = getProjectArray();
+			var dates = projects[i].tasks[j].dates.sort().reverse();
 
-	// Add hours to each project
+			if(Number(dates[0]) > Number(dateCompleted)){
+				dateCompleted = dates[0];
+			}
 
-	for(var i = 1; i < timesheet.length; i++){
-		
-		var currentObject = findObjectByName(projectObs, timesheet[i][projectCol]);
-
-		if(currentObject !== undefined){
-			currentObject.hours += Number(timesheet[i][hoursCol]);
+			totalProjectHours += projects[i].tasks[j].hours;
 		}
+
+		var dateCompletedObject = new Date(dateCompleted);
+		projects[i].dateCompleted = dateCompletedObject;
+		projects[i].hours = Math.round(totalProjectHours*100)/100;
 	}
-	
-	// Create table and append
+
+	writeTable(projects)
+}
+
+function writeTable(projects){
+
+	$('thead').append("<th>Project</th>" +
+					  "<th>Hours</th>");
 
 	var tableHTML = "";
-	for(var i = 0; i < projectObs.length; i++){
-		totalHours += projectObs[i].hours;
+	var totalHours = 0;
 
-		tableHTML += "<tr class = 'project-row' value = '" + projectObs[i].name + "'>"
-					+ "<td>" + projectObs[i].name + "</td>"
-					+ "<td class= 'hours'>" + Math.round(projectObs[i].hours*100)/100 + "</td>" 
+	for(var i = 0; i < projects.length; i++){
+		totalHours += projects[i].hours;
+
+		tableHTML += "<tr class = 'project-row' value = '" + projects[i].name + "'>"
+					+ "<td>" + projects[i].name + "</td>"
+					+ "<td class= 'hours'>" + Math.round(projects[i].hours*100)/100 + "</td>" 
 				  + "</tr>";
 
-		if(i == projectObs.length - 1){
+		if(i == projects.length - 1){
 			tableHTML += "<tr class = 'total-hours'>"
 							+ "<td>Total</td>"
 							+ "<td class = 'hours'>" + Math.round(totalHours*100)/100 + "</td>" 
@@ -220,14 +236,35 @@ function loadTimesheet(timesheet){
 		}
 	}
 
-	var estimatedIncome = projectObs.length * 250;
+	var estimatedIncome = totalHours * 30;
 
 	$('tbody').append(tableHTML);
 
 	$('#estimated-income').append('<p>Income: <strong>$' + estimatedIncome + '</strong></p>');
+}
+
+function showDates(projects){
+	for(var i = 0; i < projects.length; i++){
+		console.log(projects[i].dateCompleted.getMonth());
+	}
+}
+
+var projects;
+
+
+function loadAllProjects(){
+
+	Papa.parse("timesheets/master.csv", {
+						download: true,
+						complete: function(results, file) {
+									  // console.log("Parsing complete:", results.data);
+									  parsedFile = results.data
+									  generateProjects(parsedFile);
+								}
+	});
 
 }
 
-
+	
 
 

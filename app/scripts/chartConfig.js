@@ -3,7 +3,7 @@ Chart.defaults.global = {
     animation: true,
 
     // Number - Number of animation steps
-    animationSteps: 60,
+    animationSteps: 10,
 
     // String - Animation easing effect
     // Possible effects are:
