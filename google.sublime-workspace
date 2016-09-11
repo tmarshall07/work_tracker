@@ -219,7 +219,7 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 4260,
+				"buffer_size": 4357,
 				"line_ending": "Unix"
 			}
 		},
@@ -243,7 +243,7 @@
 			"file": "app/scripts/app.js",
 			"settings":
 			{
-				"buffer_size": 7502,
+				"buffer_size": 7036,
 				"line_ending": "Unix"
 			}
 		},
@@ -335,6 +335,7 @@
 	},
 	"expanded_folders":
 	[
+		"/Users/tannermarshall/web/work_tracker",
 		"/Users/tannermarshall/web/work_tracker/app",
 		"/Users/tannermarshall/web/work_tracker/app/css"
 	],
@@ -590,7 +591,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -659,15 +660,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4260,
+						"buffer_size": 4357,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3211,
-								3211
+								2827,
+								2827
 							]
 						],
 						"settings":
@@ -677,10 +678,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1111.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -4623,15 +4624,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7502,
+						"buffer_size": 7036,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7492,
-								7492
+								0,
+								0
 							]
 						],
 						"settings":
@@ -4640,10 +4641,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3677.0,
+						"translation.y": 3271.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
